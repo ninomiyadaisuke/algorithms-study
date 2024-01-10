@@ -31,6 +31,9 @@ export default function Home() {
           <Link className=" text-blue-400" href={"/section-11"}>
             section-11
           </Link>
+          <Link className=" text-blue-400" href={"/section-12"}>
+            section-12
+          </Link>
         </div>
       </div>
     </div>
