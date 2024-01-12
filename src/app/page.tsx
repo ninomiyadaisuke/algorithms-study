@@ -37,6 +37,9 @@ export default function Home() {
           <Link className=" text-blue-400" href={"/section-13"}>
             section-13
           </Link>
+          <Link className=" text-blue-400" href={"/section-15-merge-sort"}>
+            section-15-merge-sort
+          </Link>
         </div>
       </div>
     </div>
