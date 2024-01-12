@@ -40,6 +40,9 @@ export default function Home() {
           <Link className=" text-blue-400" href={"/section-15-merge-sort"}>
             section-15-merge-sort
           </Link>
+          <Link className=" text-blue-400" href={"/section-16-quick-sort"}>
+            section-16-quick-sort
+          </Link>
         </div>
       </div>
     </div>
