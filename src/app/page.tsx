@@ -43,6 +43,9 @@ export default function Home() {
           <Link className=" text-blue-400" href={"/section-16-quick-sort"}>
             section-16-quick-sort
           </Link>
+          <Link className="text-blue-400" href={"/section-17-radix-sort"}>
+            section-17-radix-sort
+          </Link>
         </div>
       </div>
     </div>
