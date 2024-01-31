@@ -49,6 +49,9 @@ export default function Home() {
           <Link className="text-blue-400" href={"/section-18-class-syntax"}>
             section-18-class-syntax
           </Link>
+          <Link className="text-blue-400" href={"/section-19-singly-linked"}>
+            section-19-singly-linked
+          </Link>
         </div>
       </div>
     </div>
